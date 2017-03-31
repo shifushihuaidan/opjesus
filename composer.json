@@ -1,0 +1,15 @@
+{
+    "name": "shifushihuaidan/opjesus",
+    "license": "MIT",
+    "type": "project",
+    "description": "The \"Opjesus Standard Edition\" distribution",
+    "autoload": {
+        "classmap": [
+            "app/controllers",
+            "app/models",
+            "cards"
+        ]
+    },
+    "require": {
+    }
+}
